@@ -52,7 +52,7 @@
                 >
             <p >
              This is a Project  designed, developed and hosted by  <a style="color:darkorange" href="https://www.linkedin.com/in/harsh2001/" >Harsh Jain</a>.<br>I have made it in attempt to learn and implement html,css,bootstrap,jsp and servlets.<br>
-    <a style="color:black" href="#" >Repository Link</a>
+    <a style="color:black" href="https://github.com/J-Harsh/ecommerce" >Repository Link</a>
             </p>
           </div>
           <!-- Grid column -->

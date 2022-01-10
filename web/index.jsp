@@ -12,6 +12,11 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Book Store</title>
         <link rel="shortcut icon" href="http://crikx.pythonanywhere.com/media/favicon.png" type="image/x-icon">  
+        <script type = "text/javascript" >
+   function preventBack(){window.history.forward();}
+    setTimeout("preventBack()", 0);
+    window.onunload=function(){null};
+</script>
     </head>
     <body>
         <%@include file="navbar.jsp" %>

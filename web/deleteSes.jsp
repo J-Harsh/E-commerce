@@ -1,13 +1,5 @@
 <%@page import="java.util.Vector" %>
 
-<%
-    int t= (Integer)(session.getAttribute("type"));            
-    if(t!=1)
-    {
-                response.sendRedirect("Unauthorized.jsp");
-                return;
-    }
-%>
 
 <%
 
